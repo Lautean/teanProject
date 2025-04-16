@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345195233611",
+    "project_id": "tomato-plantation-app",
+    "storage_bucket": "tomato-plantation-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345195233611:android:73f6573f64b6d921a528ce",
+        "android_client_info": {
+          "package_name": "com.example.tomato_plantation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE29hH7BhCRvXzLL3jZTyW50YbihPxAJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
